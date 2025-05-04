@@ -1,0 +1,32 @@
+# Audio Book (audio_book.py)
+PyPDF2>=3.0.0
+pyttsx3>=2.90
+
+# Data Faker (data_faker.py)
+pandas>=1.5.0
+Faker>=19.0.0
+
+# Generate QR (generate_qr.py)
+qrcode>=7.4.0
+Pillow>=10.0.0
+
+# Notifier (notifier.py)
+win10toast>=0.9
+
+# Remove Background (remove_bg.py)
+rembg>=2.0.0
+
+# Spell Guard (spell_guard.py)
+lmproof>=0.1.0
+
+# Summariser (summariser.py)
+transformers>=4.30.0
+torch>=2.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# URL Shortener (url_shortener.py)
+pyshorteners>=0.16.0
+
+# YouTube Transcript (youtube_transcript.py)
+youtube-transcript-api>=0.6.0
